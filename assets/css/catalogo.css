@@ -1,0 +1,23 @@
+@media (max-width: 728px) {
+  .card {
+    width: 95vw;
+
+  }
+
+  #item {
+      margin: 0;
+      padding: 0;
+      justify-content: center;
+  }
+  .row {
+      display: flex;
+      flex-direction: column;
+      flex-wrap: wrap;
+
+  }
+
+
+  p {
+      font-size: 15px;
+  }
+}
